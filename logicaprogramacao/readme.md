@@ -2,8 +2,7 @@
 
 <h3> Aula 00 - configurar o ambiente</h3>
 <p> Fazer download do programa flowgorithm no site: </p>
-
-# Faça o Donwload aqui 
+<h3> Faça o Donwload aqui </h3>
 
 **[Flowgorithm]** (http://www.flowgorithm.org)
 
