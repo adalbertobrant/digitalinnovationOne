@@ -9,7 +9,7 @@
 
 
 <h3> Aula 01 - variáveis e operações básicas </h3>
-Download [exemplo (./logicaprogramacao/estruturaRepeticao.fprg)]
+<a href="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/logicaProgramacao01.fprg">**Download exemplo**
 <p></p>
 
 <h3> Aula 02 - Estruturas de condição e repetição
