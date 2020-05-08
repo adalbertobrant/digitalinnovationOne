@@ -20,7 +20,7 @@
   
 <h3> Aula 03 - Introdução ao portugol </h3>
 
-<p> Fazer download do programa portugal studio no site: </p>
+<p> Fazer download do programa portugol studio no site: </p>
 <h3> Faça o Donwload aqui </h3>
 
 <a href = "http://lite.acad.univali.br/portugol/" >**Portugol Studio**
