@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="adalberto"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-05-08 11:28:50 "/>
+        <attribute name="created" value="YWRhbGJlcnRvO0JSQVRFUjsyMDIwLTA1LTA4OyIwODo1MTozOSAiOzI1ODg="/>
+        <attribute name="edited" value="YWRhbGJlcnRvO0JSQVRFUjsyMDIwLTA1LTA4OyIxMToyODo1MCAiOzExOzI3MzY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Estruturas de repeti&#231;&#227;o com condi&#231;&#227;o Achando primos, pares e &#237;mpares - Aula 02 - L&#243;gica de Programa&#231;&#227;o Digital Innovation &quot;" newline="True"/>
+            <declare name="numero, limite, primo" type="Integer" array="False" size=""/>
+            <assign variable="primo" expression="0"/>
+            <assign variable="numero" expression="0"/>
+            <assign variable="limite" expression="100"/>
+            <declare name="primos" type="Integer" array="True" size="limite"/>
+            <while expression="numero &lt;= limite">
+                <output expression="&quot;O valor do n&#250;mero &#233; &quot;&amp;numero" newline="True"/>
+                <if expression="numero % 2 == 0">
+                    <then>
+                        <output expression="&quot;O n&#250;mero &quot;&amp;numero &amp;&quot; &#233; par&quot;" newline="True"/>
+                        <if expression="numero == 2">
+                            <then>
+                                <output expression="&quot;Esse n&#250;mero &#233; o &#250;nico n&#250;mero primo e par conhecido&quot;" newline="True"/>
+                            </then>
+                            <else/>
+                        </if>
+                    </then>
+                    <else>
+                        <output expression="&quot;O n&#250;mero &quot;&amp;numero &amp;&quot; &#233; impar&quot;" newline="True"/>
+                        <if expression="numero &gt; 1">
+                            <then>
+                                <declare name="auxiliar, contador, i" type="Integer" array="False" size=""/>
+                                <assign variable="auxiliar" expression="sqrt(numero)"/>
+                                <assign variable="contador" expression="0"/>
+                                <for variable="i" start="1" end="auxiliar+1" direction="inc" step="1">
+                                    <if expression="numero % i == 0">
+                                        <then>
+                                            <assign variable="contador" expression="contador + 1"/>
+                                            <if expression="contador &gt; 2">
+                                                <then>
+                                                    <output expression="&quot;O n&#250;mero &quot;&amp;numero &amp; &quot; n&#227;o &#233; primo&quot;" newline="True"/>
+                                                </then>
+                                                <else/>
+                                            </if>
+                                        </then>
+                                        <else/>
+                                    </if>
+                                </for>
+                                <output expression="&quot;valor de i = &quot;&amp;i &amp;&quot; o contador vale &quot; &amp;contador &amp; &quot; o valor do auxiliar &#233; &quot;&amp;auxiliar" newline="True"/>
+                                <if expression="(contador == 1)">
+                                    <then>
+                                        <output expression="&quot;O n&#250;mero &quot;&amp;numero &amp;&quot; &#233; PRIMO&quot;" newline="True"/>
+                                    </then>
+                                    <else/>
+                                </if>
+                            </then>
+                            <else/>
+                        </if>
+                    </else>
+                </if>
+                <assign variable="numero" expression="numero + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

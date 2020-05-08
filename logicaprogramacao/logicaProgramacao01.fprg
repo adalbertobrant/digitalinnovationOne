@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="adalberto"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-05-08 08:36:19 "/>
+        <attribute name="created" value="YWRhbGJlcnRvO0JSQVRFUjsyMDIwLTA1LTA4OyIwODoyMzo0MCAiOzI1Nzk="/>
+        <attribute name="edited" value="YWRhbGJlcnRvO0JSQVRFUjsyMDIwLTA1LTA4OyIwODozNjoxOSAiOzE7MjY5Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;Programa de L&#243;gica da Programa&#231;&#227;o para o Curso Full Stack Web Digital Innovation ONE - Usando o Flowgorithm&quot;" newline="True"/>
+            <declare name="nomePessoa, sobreNomePessoa" type="String" array="False" size=""/>
+            <declare name="idadePessoa" type="Integer" array="False" size=""/>
+            <output expression="&quot;Qual o seu nome?&quot;" newline="True"/>
+            <input variable="nomePessoa"/>
+            <output expression="&quot;Qual o seu sobrenome?&quot;" newline="True"/>
+            <input variable="sobreNomePessoa"/>
+            <output expression="&quot;Qual a sua idade em anos?&quot;" newline="True"/>
+            <input variable="idadePessoa"/>
+            <if expression="idadePessoa &gt;= 18">
+                <then>
+                    <output expression="&quot;Ol&#225; &quot;&amp;nomePessoa &amp; &quot; &quot; &amp;sobreNomePessoa &amp; &quot; voc&#234; j&#225; &#233; maior de idade, pois tem &quot; &amp;idadePessoa &amp; &quot; anos.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Ol&#225; &quot;&amp;nomePessoa &amp; &quot; &quot; &amp;sobreNomePessoa &amp; &quot; voc&#234; n&#227;o &#233; maior de idade, pois tem &quot; &amp;idadePessoa &amp; &quot; anos.&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+    <function name="entraNome" type="String" variable="nome">
+        <parameters>
+            <parameter name="nome" type="String" array="False"/>
+        </parameters>
+        <body>
+            <declare name="nome" type="String" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>
