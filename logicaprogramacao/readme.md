@@ -24,7 +24,7 @@
 <h3> Faça o Donwload aqui </h3>
 
 <a href = "http://lite.acad.univali.br/portugol/" >**Portugol Studio**
-  <td><img src="https://i.paste.pics/ccb3b9062713a50947349d7e60daa2c2.png" width="1600" height="900" alt="Portugol Studio"></td>
+  <td><img src="https://i.paste.pics/ccb3b9062713a50947349d7e60daa2c2.png" width="600" height="338" alt="Portugol Studio"></td>
 
   
 
