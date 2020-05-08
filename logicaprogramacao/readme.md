@@ -5,7 +5,7 @@
 <h3> Faça o Donwload aqui </h3>
 
 <a href = "http://www.flowgorithm.org" >**Flowgorithm**
-  <td<<img src="https://i.paste.pics/35e6dd57adf79456d222e2ed02e33592.png" width="1600" height="900" alt="Flowgorithm"></td>
+  <td><img src="https://i.paste.pics/35e6dd57adf79456d222e2ed02e33592.png" width="1600" height="900" alt="Flowgorithm"></td>
 
 
 <h3> Aula 01 - variáveis e operações básicas </h3>
