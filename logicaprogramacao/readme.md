@@ -1,7 +1,8 @@
 # Logica de Programação - Utilizando o Flowgorithm
 
 <h3> Aula 00 - configurar o ambiente</h3>
-<p> Fazer download do programa flowgorithm no site: [Flowgorithm](http://www.flogorith.com)</p>
+<p> Fazer download do programa flowgorithm no site: </p>
+[Flowgorithm](http://www.flowgorithm.org)
 
 
 <h3> Aula 01 - variáveis e operações básicas </h3>
