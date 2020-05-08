@@ -27,7 +27,8 @@
   <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/portugolStudio.png" width="600" height="338" alt="Portugol Studio"></td>
 
 <p></p>
-<td><a href = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/introPortugol-01.por" >**Programa em Portugol** </td>
+
+<a href = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/introPortugol-01.por">**Programa em Portugol**
   
 
 
