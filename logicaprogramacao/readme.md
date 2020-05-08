@@ -27,10 +27,10 @@
   <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/portugolStudio.png" width="600" height="338" alt="Portugol Studio"></td>
 <p></p>
   ---
-<a href = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/introPortugol-01.por" >**Programa em Portugol**
+0 - <a href = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/introPortugol-01.por" >**Portugol - 01**
 
   <p></p>
- <a href = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/matrizesPortugol.por" > **Matrizes em Portugol**
+ 1 - <a href = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/logicaprogramacao/matrizesPortugol.por" > **Matrizes em Portugol**
   
   
 
