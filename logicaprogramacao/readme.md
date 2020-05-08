@@ -4,7 +4,7 @@
 <p> Fazer download do programa flowgorithm no site: </p>
 <h3> Faça o Donwload aqui </h3>
 
-<a href = "http://www.flowgorithm.org" **Flogorithm** </a>
+<a href = "http://www.flowgorithm.org" **Flogorithm** />
 
 
 <h3> Aula 01 - variáveis e operações básicas </h3>
