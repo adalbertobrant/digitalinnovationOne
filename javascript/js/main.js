@@ -11,12 +11,21 @@ alert("Soma = "+variavel+" + "+outra_variavel+" = "+soma);
 console.log(soma + variavel + outra_variavel);
 */
 
-var frase = "O Brasil ganhou a copa do mundo em 1970";
+//var frase = "O Brasil ganhou a copa do mundo em 1970";
 
 // funçao replace
 
 // mudar a palavra Brasil por Jairzinho
 
-var nova_frase = frase.replace("Brasil","Jairzinho");
+//var nova_frase = frase.replace("Brasil","Jairzinho");
 
-alert(nova_frase);
+//alert(nova_frase);
+
+var  upper = "to upper case"
+
+upper = upper.toUpperCase();
+alert(upper);
+
+var lower = "TO LOWER CASE"
+lower = lower.toLowerCase();
+alert(lower);
