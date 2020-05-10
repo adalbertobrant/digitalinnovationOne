@@ -34,3 +34,19 @@ fonte: git-scm.com/docs
   </tr>
   
 </table> 
+<h4> Commandos </h4>
+<table style="width:100%">
+  <tr>
+    <th>Comandos</th>
+    <th>Funcoes</th>
+    <th>Pratica</th>
+  </tr>
+ <tr>
+  <td> git branch</td>
+  <td> lista no terminal todas as branch e mostra a master</td>
+  <td> <img scr = "imagem" alt="lista branch" width="200" height="113" alt="Lista Branch"</td>
+ </tr>
+ 
+ </table>
+
+
