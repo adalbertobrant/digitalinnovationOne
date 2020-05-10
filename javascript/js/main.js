@@ -53,7 +53,7 @@ console.log(dic.cor);
 
 // Condicionais
 
-
+/*
 var idade = prompt("Qual a sua idade?");
 
 if (idade >= 18)
@@ -97,6 +97,13 @@ alert("Dia da semana "+d.getDay());
 alert("Hora "+d.getHours());
 alert("Dia "+d.getDate());
 
+*/
+
+// Funç~oes
+
+function maiorZero(parametro){
+return (parametro > 0);
+}
 
 
 
