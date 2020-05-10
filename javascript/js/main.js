@@ -112,7 +112,11 @@ document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>
 }
 
 function redirecionar(){
+// abre em outra janela
 window.open("https://www.sistemasembarcados.org");
+// altera conteudo ao clicar
 document.getElementById("redirecionamento").innerHTML = "<b> Abrindo o melhor site do Mundo</b>";
+// abre na mesma janela
+window.location.href="https://www.sistemasembarcados.org";
 }
 
