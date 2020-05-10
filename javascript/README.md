@@ -87,6 +87,13 @@
 </tr>
 
 <tr>
+<td>else</td>
+<td>Necessario ter tido um if antes, e a condicao que eh expressada se o if for falso</td>
+<td>if (...){...} else{ console.log("False");}</td>
+</tr>
+
+
+<tr>
 <td>prompt</td>
 <td>Espera por uma entrada do usuario no browser</td>
 <td> var idade = prompt("Qual idade?");</td>
