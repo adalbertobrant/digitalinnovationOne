@@ -38,5 +38,6 @@ console.log(lista);
 lista.push("abacate","uva");
 console.log(lista);
 console.log("tamanho da lista eh = "+lista.length);
+console.log(lista.toString());
 
 
