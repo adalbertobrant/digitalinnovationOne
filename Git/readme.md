@@ -56,7 +56,7 @@ fonte: git-scm.com/docs
   </tr>
  <td> git checkout -b criaOutraBranch</td>
  <td> cria outro branch e ja vai para ele</td>
- <td> <img src =" https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_criaBranchEVai.png " width="300" height="169" alt="cria a branch e vai para ela"</td>
+ <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_criaBranchEvai.png " width="300" height="169" alt="cria a branch e vai para ela"</td>
  </table>
 
 
