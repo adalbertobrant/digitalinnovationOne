@@ -78,3 +78,26 @@ contador ++;
 
 }
 
+// Repeticao for simples
+
+for(let i= 0; i<=100; i++){
+console.log(i);
+}
+
+// Datas 
+
+var d = new Date();
+alert(d);
+// pegar o mes ele pega janeiro como sendo zero entao somar 1 para o valor correto
+
+alert("Mes "+(d.getMonth()+ 1));
+// getDay() da o valor de 0 a 6 onde zero e domingo
+
+alert("Dia da semana "+d.getDay());
+alert("Hora "+d.getHours());
+
+
+
+
+
+
