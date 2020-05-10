@@ -30,7 +30,7 @@ fonte: git-scm.com/docs
   <tr>
     <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/fusaoDb.jpg" width="400" height="225" alt="Fusao"></td>
     <td>&#8594</td>
-    <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/fusaoDb.jpg" width="400" height="225" alt="Fusao"</td>
+    <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gotenks-fusa-o.jpg" width="400" height="225" alt="Resultado da fusao"</td>
   </tr>
   
 </table> 
