@@ -21,8 +21,6 @@ fonte: git-scm.com/docs
 
 <p>(BranchSecundahria) -----> novo conceito ou teste <span>&#8599</span> </p> 
 <p>Branches permitem que diferentes versoes do mesmo cohdigo estejam disponiveis para testes e verificacoes de features, caso o usuario esteja satisfeito com a nova branch a mesma pode ser implementada na master atraves da fusao</p>
-<table><td></td><tr><p><span>;</span> </p></tr>
-</table>
  <table style="width:100%">
   <tr>
     <th>Branch Master e Secundaria</th>
