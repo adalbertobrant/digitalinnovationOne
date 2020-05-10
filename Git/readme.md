@@ -60,9 +60,9 @@ fonte: git-scm.com/docs
  <td> cria outro branch e ja vai para ele</td>
  <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_criaBranchEvai.png " width="300" height="169" alt="cria a branch e vai para ela"</td>
   <tr>
-   <td> git push origin nomedabranch</td>
-   <td> envia a branch para o diretorio remoto</td>
-   <td> <img src =" " width="300" height="169" alt="envia a branch para o diretorio remoto" </td>
+   <td> git push -u origin nomedabranch</td>
+   <td> envia o conteudo da branch para o diretorio remoto</td>
+   <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_pushBranch.png " width="300" height="169" alt="envia o conteudo da branch para o diretorio remoto" </td>
   </tr>
  </table>
 
