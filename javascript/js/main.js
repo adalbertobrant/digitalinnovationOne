@@ -95,7 +95,7 @@ alert("Mes "+(d.getMonth()+ 1));
 
 alert("Dia da semana "+d.getDay());
 alert("Hora "+d.getHours());
-
+alert("Dia "+d.getDate());
 
 
 
