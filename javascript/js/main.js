@@ -108,6 +108,6 @@ return (parametro > 0);
 
 function botao(){
 //return alert("Obrigado por clicar");
-document.getElementById("agradecimento").innerHtml = <b>"Obrigado por clicar"</b>;
+return document.getElementById("agradecimento").innerHtml = "<b>Obrigado por clicar</b>";
 }
 
