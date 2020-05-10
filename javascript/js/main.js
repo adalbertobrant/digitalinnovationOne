@@ -21,11 +21,22 @@ console.log(soma + variavel + outra_variavel);
 
 //alert(nova_frase);
 
-var  upper = "to upper case"
-
+//var  upper = "to upper case"
+/*
 upper = upper.toUpperCase();
 alert(upper);
 
 var lower = "TO LOWER CASE"
 lower = lower.toLowerCase();
 alert(lower);
+*/
+
+// Listas e Dicionarios
+
+var lista = ["maca","pera","banana","limao"];
+console.log(lista);
+lista.push("abacate","uva");
+console.log(lista);
+console.log("tamanho da lista eh = "+lista.length);
+
+
