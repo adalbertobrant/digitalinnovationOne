@@ -44,7 +44,7 @@ fonte: git-scm.com/docs
  <tr>
   <td> git branch</td>
   <td> lista no terminal todas as branch e mostra a master</td>
-  <td> <img src = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_lista.png" alt="lista branch" width="200" height="113" alt="Lista Branch"</td>
+  <td> <img src = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_lista.png" alt="lista branch" width="300" height="169" alt="Lista Branch"</td>
  </tr>
  
  </table>
