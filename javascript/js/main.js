@@ -33,6 +33,7 @@ alert(lower);
 
 // Listas e Dicionarios
 
+/*
 var lista = ["maca","pera","banana","limao"];
 console.log(lista);
 lista.push("abacate","uva");
@@ -47,4 +48,19 @@ console.log("acessando elementos do dicionario");
 console.log(dic.nome);
 console.log(dic.idade);
 console.log(dic.cor);
+
+*/
+
+// Condicionais
+
+
+var idade = prompt("Qual a sua idade?");
+
+if (idade >= 18)
+{
+alert("Maior de idade");
+}
+else{
+alert("Menor de idade");
+}
 
