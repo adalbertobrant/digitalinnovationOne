@@ -49,6 +49,11 @@ fonte: git-scm.com/docs
  <td> git checkout nomedabranch</td>
  <td> troca de branch saindo da master e indo para outra</td>
  <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_trocaBranch.png "  width="300" height="169" alt="troca de branch"</td>
+  <tr>
+   <td> git branch -D nomedabranch</td>
+   <td> apaga o branch e retorna a master</td>
+   <td> <img src =" " width="300" height="169" alt="apaga a branch"</td>
+  </tr>
  </table>
 
 
