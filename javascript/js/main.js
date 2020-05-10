@@ -111,3 +111,7 @@ function botao(){
 document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>";
 }
 
+function redirecionar(){
+window.open("https://www.sistemasembarcados.org");
+}
+
