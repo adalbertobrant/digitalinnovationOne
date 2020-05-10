@@ -99,6 +99,12 @@
 <td> var idade = prompt("Qual idade?");</td>
 </tr>
 
+<tr>
+<td>while</td>
+<td>Faz a repetiç~ao de instruç~oes enquanto a condiç~ao n~ao for satisfeita</td>
+<td>var idade = 30; while(idade >=21){ console.log(idade); idade --;}</td>
+</tr>
+
 
 
 
