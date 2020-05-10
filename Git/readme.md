@@ -46,9 +46,11 @@ fonte: git-scm.com/docs
   <td> lista no terminal todas as branch e mostra a master</td>
   <td> <img src = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_lista.png" width="300" height="169" alt="Lista Branch"</td>
  </tr>
+ <tr>
  <td> git checkout nomedabranch</td>
  <td> troca de branch saindo da master e indo para outra</td>
  <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_trocaBranch.png "  width="300" height="169" alt="troca de branch"</td>
+ </tr>
   <tr>
    <td> git branch -D nomedabranch</td>
    <td> apaga o branch e retorna a master</td>
@@ -57,6 +59,11 @@ fonte: git-scm.com/docs
  <td> git checkout -b criaOutraBranch</td>
  <td> cria outro branch e ja vai para ele</td>
  <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_criaBranchEvai.png " width="300" height="169" alt="cria a branch e vai para ela"</td>
+  <tr>
+   <td> git push origin nomedabranch</td>
+   <td> envia a branch para o diretorio remoto</td>
+   <td> <img src =" " width="300" height="169" alt="envia a branch para o diretorio remoto" </td>
+  </tr>
  </table>
 
 
