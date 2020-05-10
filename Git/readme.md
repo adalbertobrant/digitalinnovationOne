@@ -24,8 +24,8 @@ fonte: git-scm.com/docs
  <table style="width:100%">
   <tr>
     <th>Branch Master e Secundaria</th>
-    <th>--</th>
-    <th>Fusao</th>
+    <th>---</th>
+    <th>Merging</th>
   </tr>
   <tr>
     <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/fusaoDb.jpg" width="400" height="225" alt="Fusao"></td>
