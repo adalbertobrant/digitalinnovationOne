@@ -52,7 +52,7 @@ fonte: git-scm.com/docs
   <tr>
    <td> git branch -D nomedabranch</td>
    <td> apaga o branch e retorna a master</td>
-   <td> <img src =" " width="300" height="169" alt="apaga a branch"</td>
+   <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_apagaBranch.png " width="300" height="169" alt="apaga a branch"</td>
   </tr>
  </table>
 
