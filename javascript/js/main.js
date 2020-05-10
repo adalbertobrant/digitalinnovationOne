@@ -113,5 +113,6 @@ document.getElementById("agradecimento").innerHTML = "<b>Obrigado por clicar</b>
 
 function redirecionar(){
 window.open("https://www.sistemasembarcados.org");
+document.getElementById("redirecionamento").innerHTML = "<b> Abrindo o melhor site do Mundo</b>";
 }
 
