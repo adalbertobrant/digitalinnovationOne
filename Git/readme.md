@@ -65,7 +65,7 @@ fonte: git-scm.com/docs
    <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_pushBranch.png " width="300" height="169" alt="envia o conteudo da branch para o diretorio remoto" </td>
   </tr>
   <tr>
-   <td> git merge </td>
+   <td> git merge nomedabranch</td>
    <td> une as alteraçoes de uma branch para outra no caso a master</td>
    <td> <img src = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_mergeBranch.png " width="300" height="169" alt="faz o merge" </td>
   </tr>
