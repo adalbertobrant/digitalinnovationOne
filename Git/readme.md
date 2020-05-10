@@ -54,6 +54,9 @@ fonte: git-scm.com/docs
    <td> apaga o branch e retorna a master</td>
    <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_apagaBranch.png " width="300" height="169" alt="apaga a branch"</td>
   </tr>
+ <td> git checkout -b criaOutraBranch</td>
+ <td> cria outro branch e ja vai para ele</td>
+ <td> <img src =" https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_criaBranchEVai.png " width="300" height="169" alt="cria a branch e vai para ela"</td>
  </table>
 
 
