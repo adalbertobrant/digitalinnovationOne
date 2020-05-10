@@ -105,6 +105,11 @@
 <td>var idade = 30; while(idade >=21){ console.log(idade); idade --;}</td>
 </tr>
 
+<tr>
+<td>for</td>
+<td>Laço condicional com inicializaç~ao de vari'avel e contador</td>
+<td>for(let i=0;i<=5;i++){console.log(i);}</td>
+</tr>
 
 
 
