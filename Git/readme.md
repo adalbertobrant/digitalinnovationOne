@@ -13,3 +13,11 @@
 
 fonte: git-scm.com/docs
 
+## Trabalhando com Branches
+
+<h4> Conceito</h4>
+<p></p>
+<p> BranchPrincipal (master)--------------------------------------------------------- Programa disponivel ao usuario</p>                                                          
+
+<p>(BranchSecundahria) -----> novo conceito ou teste <span>&#8599</span> </p> 
+<p>Branches permitem que diferentes versoes do mesmo cohdigo estejam disponiveis para testes e verificacoes de features, caso o usuario esteja satisfeito com a nova branch a mesma pode ser implementada na master atraves da <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjovemnerd.com.br%2Fnerdbunker%2Fagora-e-possivel-fazer-a-danca-da-fusao-de-dragon-ball-em-destiny-2%2F&psig=AOvVaw3vjlC-Z4S3BkNb3-6ZyKSR&ust=1589196658841000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjLloaZqekCFQAAAAAdAAAAABAD" ></p>
