@@ -21,4 +21,5 @@ fonte: git-scm.com/docs
 
 <p>(BranchSecundahria) -----> novo conceito ou teste <span>&#8599</span> </p> 
 <p>Branches permitem que diferentes versoes do mesmo cohdigo estejam disponiveis para testes e verificacoes de features, caso o usuario esteja satisfeito com a nova branch a mesma pode ser implementada na master atraves da fusao</p>
-<td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/fusaoDb.jpg" width="400" height="225" alt="Fusao"></td><tr><p><span>&#8594;</span> </p></tr>
+<table><td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/fusaoDb.jpg" width="400" height="225" alt="Fusao"></td><tr><p><span>&#8594;</span> </p></tr>
+</table>
