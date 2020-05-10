@@ -41,4 +41,10 @@ console.log("tamanho da lista eh = "+lista.length);
 console.log(lista.toString());
 console.log(lista.join("   ****   "));
 
+var dic = {nome:"jose", idade:"30",cor:"parda"};
+console.log(dic);
+console.log("acessando elementos do dicionario");
+console.log(dic.nome);
+console.log(dic.idade);
+console.log(dic.cor);
 
