@@ -20,7 +20,7 @@ fonte: git-scm.com/docs
 <p> BranchPrincipal (master)--------------------------------------------------------- Programa disponivel ao usuario</p>                                                          
 
 <p>(BranchSecundahria) -----> novo conceito ou teste <span>&#8599</span> </p> 
-<p>Branches permitem que diferentes versoes do mesmo cohdigo estejam disponiveis para testes e verificacoes de features, caso o usuario esteja satisfeito com a nova branch a mesma pode ser implementada na master atraves da fusao</p>
+<p>Branches permitem que diferentes versoes do mesmo cohdigo estejam disponiveis para testes e verificacoes de features, caso o usuario esteja satisfeito com a nova branch a mesma pode ser implementada na master atraves da fusao ou merging </p>
  <table style="width:100%">
   <tr>
     <th>Branch Master e Secundaria</th>
@@ -30,7 +30,7 @@ fonte: git-scm.com/docs
   <tr>
     <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/fusaoDb.jpg" width="400" height="225" alt="Fusao"></td>
     <td>&#8594</td>
-    <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gotenks-fusa-o.jpg" width="400" height="225" alt="Resultado da fusao"</td>
+    <td><img src="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gotenks-fusa-o.jpg" width="400" height="225" alt="Merging"</td>
   </tr>
   
 </table> 
