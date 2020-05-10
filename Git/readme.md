@@ -44,9 +44,11 @@ fonte: git-scm.com/docs
  <tr>
   <td> git branch</td>
   <td> lista no terminal todas as branch e mostra a master</td>
-  <td> <img src = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_lista.png" alt="lista branch" width="300" height="169" alt="Lista Branch"</td>
+  <td> <img src = "https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_lista.png" width="300" height="169" alt="Lista Branch"</td>
  </tr>
- 
+ <td> git checkout nomedabranch</td>
+ <td> troca de branch saindo da master e indo para outra</td>
+ <td> <img src ="https://github.com/adalbertobrant/digitalinnovationOne/blob/master/Git/gitbranch_trocaBranch.png "  width="300" height="169" alt="troca de branch"</td>
  </table>
 
 
