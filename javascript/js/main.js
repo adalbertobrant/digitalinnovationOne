@@ -64,3 +64,17 @@ else{
 alert("Menor de idade");
 }
 
+// Repetiç~oes while e for
+
+var contador = 0,soma = 0;
+
+while (contador <= 100){
+
+soma = soma + contador;
+
+console.log("Soma + contador = "+soma);
+
+contador ++;
+
+}
+
