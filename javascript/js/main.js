@@ -106,5 +106,7 @@ return (parametro > 0);
 }
 
 
-
+function botao(){
+return alert("Obrigado por clicar");
+}
 
