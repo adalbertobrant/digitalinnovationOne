@@ -80,6 +80,17 @@
 <td>var fruta = {nome:"uva", cor:"roxa"}</td>
 </tr>
 
+<tr>
+<td>if</td>
+<td>Avalia se uma expressao e verdade ou n~ao</td>
+<td> if(expressao){ console.log("True");}</td>
+</tr>
+
+<tr>
+<td>prompt</td>
+<td>Espera por uma entrada do usuario no browser</td>
+<td> var idade = prompt("Qual idade?");</td>
+</tr>
 
 
 
