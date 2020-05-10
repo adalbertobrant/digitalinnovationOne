@@ -74,6 +74,11 @@
 <td>lista.join(" - ");</td>
 </tr>
 
+<tr>
+<td>Dicionario </td>
+<td>Um tipo de lista onde se tem uma chave e um valor para aquela chave.</td>
+<td>var fruta = {nome:"uva", cor:"roxa"}</td>
+</tr>
 
 
 
