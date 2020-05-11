@@ -2,6 +2,8 @@
 <p> Digital Innovation One</p>
 
 <h3> Estrutura do HTML</h3>
+`code\
+span`
 
 <!--comentario em html-->
 '<!DOCTYPE html>'   Informa ao navegador que se trata de um documento do tipo html 5 o <!DOCTYPE html> deve ser colocado no inicio do documento html
