@@ -2,9 +2,11 @@
 <p> Digital Innovation One</p>
 
 <h3> Estrutura do HTML</h3>
-```javascript
+```
+javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
+
 ```
 
 <!--comentario em html-->
