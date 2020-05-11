@@ -2,10 +2,6 @@
 <p> Digital Innovation One</p>
 
 <h3> Estrutura do HTML</h3>
-```
-javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
 
 ```
 
