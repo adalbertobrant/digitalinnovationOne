@@ -4,7 +4,7 @@
 <h3> Estrutura do HTML</h3>
 
 <!--comentario em html-->
-<!DOCTYPE html>   Informa ao navegador que se trata de um documento do tipo html 5 o <!DOCTYPE html> deve ser colocado no inicio do documento html
+&lt!DOCTYPE html&gt   Informa ao navegador que se trata de um documento do tipo html 5 o <!DOCTYPE html> deve ser colocado no inicio do documento html
 
 <html> Todo o conteudo do navegador ou browser esta dentro da tag principal, chamada raiz ou root  <html>...</html>
 
@@ -28,6 +28,6 @@ Dentro da tag <body> podemos ter tags que denotam diferentes formas de marcar ou
 <h1>h1</h1> Mostra um texto maior
 <h2>h2</h2> Mostra um sub texto menor
 <h3>h3</h3> Mostra um subt'titulo
-vai ate o h6 o h7 e do mesmo tamanho do paragrafo 
+vai ate o h6 o h7 e do mesmo tamanho do paragrafo
 
  <footer>...</footer>, que e o rodape da pagina web
