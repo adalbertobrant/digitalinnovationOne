@@ -52,4 +52,5 @@ a estrutura completa de item fica assim
 
 site de imagens gratuitas na internet -> https://www.pexels.com
 
- 
+para colocar uma imagem no site deve-se fazer:
+<img src="endereco da imagem" > A tag <img> nao tem fechamento 
