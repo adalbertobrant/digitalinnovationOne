@@ -49,4 +49,7 @@ a estrutura completa de item fica assim
 
 <section></section> indica uma porçao da pagina web, seçao de conteudo especifico ,e boa pratica colocar um id dentro da tag section para especificar melhor a seçao que faz parte.
 <section id="secao1"></section>
+
+site de imagens gratuitas na internet -> https://www.pexels.com
+
  
