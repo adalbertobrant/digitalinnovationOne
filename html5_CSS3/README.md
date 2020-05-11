@@ -33,3 +33,20 @@ Dentro da tag <body> podemos ter tags que denotam diferentes formas de marcar ou
 vai ate o h6 o h7 e do mesmo tamanho do paragrafo
 
  <footer>...</footer>, que e o rodape da pagina web
+
+Tanto o header quanto o footer ficam dentro da tag body
+
+<nav>...</nav> representa o menu de navegaçao da pagina podendo conter links
+Dentro no nav pode se ter uma lista de itens por exemplo o <ul>...</ul>
+a estrutura completa de item fica assim
+<nav>
+   <ul>
+       <li>itens da lista</li>
+       <li>outro item</li>
+       <li>mais outro item</li>
+   </ul>
+</nav>
+
+<section></section> indica uma porçao da pagina web, seçao de conteudo especifico ,e boa pratica colocar um id dentro da tag section para especificar melhor a seçao que faz parte.
+<section id="secao1"></section>
+ 
