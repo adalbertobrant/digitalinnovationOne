@@ -4,7 +4,7 @@
 <h3> Estrutura do HTML</h3>
 
 <!--comentario em html-->
-&lt!DOCTYPE html&gt   Informa ao navegador que se trata de um documento do tipo html 5 o <!DOCTYPE html> deve ser colocado no inicio do documento html
+'<!DOCTYPE html>'   Informa ao navegador que se trata de um documento do tipo html 5 o <!DOCTYPE html> deve ser colocado no inicio do documento html
 
 <html> Todo o conteudo do navegador ou browser esta dentro da tag principal, chamada raiz ou root  <html>...</html>
 
