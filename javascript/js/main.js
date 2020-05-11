@@ -120,3 +120,29 @@ document.getElementById("redirecionamento").innerHTML = "<b> Abrindo o melhor si
 window.location.href="https://www.sistemasembarcados.org";
 }
 
+function passandoMouse(){
+document.getElementById("passamouse").innerHTML = "<b> Passou o mouse</b>";
+
+}
+
+function tirarMouse(){
+document.getElementById("passamouse").innerHTML = "passe o mouse aqui";
+
+}
+
+// outra forma de fazer a funç~ao 
+
+function coisa(elemento){
+elemento.innerHTML = "<b> A COISA </b>";
+}
+
+function load(){
+alert("Pagina carregada");
+}
+
+function pegaValor(elemento){
+console.log(elemento.value);
+}
+
+
+

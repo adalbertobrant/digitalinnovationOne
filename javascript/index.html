@@ -5,7 +5,7 @@
 	<meta charset =	"utf-8">
 
 </head>
-<body>
+<body onload ="load()">
 <!-- Comentario o uso de script misturado com a pagina html esta em desuso devido a necessidade de refatoracao constante
 
 	<script>
@@ -21,6 +21,16 @@
 <button type="button" onclick="botao()"> Clique aqui </button>
 <h3 id ="agradecimento">Bem Vindo ! </h3>
 <p id="redirecionamento" onclick="redirecionar()">Propaganda</p>
+<p id="passamouse" onmouseover="passandoMouse()" onmouseout="tirarMouse()">Passe o mouse aqui </p>
+<p onclick="coisa(this)"> _______</p>
+
+<select onchange = "pegaValor(this)">
+   <option value = "1"> Valor 1</option>
+   <option value = "2"> Valor 2</option>
+   <option value = "3"> Valor 3</option>
+</select>
+
+
 
 
 
