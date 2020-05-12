@@ -54,3 +54,15 @@ site de imagens gratuitas na internet -> https://www.pexels.com
 
 para colocar uma imagem no site deve-se fazer:
 <img src="endereco da imagem" > A tag <img> nao tem fechamento 
+
+Dentro da tag nav na lista é possível usar hiperlinks para linkar a própria página.
+<nav>
+    <ul>
+        <li><a href=#id da tag>Nome do hiperlink</a></li>
+    </ul>
+</nav>
+
+Estrutura do hiperlink 
+<a href="local ou id">Nome do Hiper link</a> 
+
+<div> são divisões criadas na página html 
