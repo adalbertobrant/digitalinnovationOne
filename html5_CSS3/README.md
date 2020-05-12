@@ -90,4 +90,14 @@ Também é possivel utilizar a construção :
 
 ```
     <link rel="stylesheet" type="text/css" href="css/style.css"> esse comando serve para linkar o arquivo css para a página web.
+
+```
+    Dentro do arquivo style.css são editados os estilos como por exemplo a cor de fundo.
+```
+    body{ 
+        background: red;
+    }
+    body {
+        background: rgb(123,140,310);
+    }
  
