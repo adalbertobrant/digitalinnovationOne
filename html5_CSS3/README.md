@@ -87,6 +87,7 @@ Também é possivel utilizar a construção :
 
 ---
 ###Commandos
-```
 
+```
+    <link rel="stylesheet" type="text/css" href="css/style.css"> esse comando serve para linkar o arquivo css para a página web.
  
