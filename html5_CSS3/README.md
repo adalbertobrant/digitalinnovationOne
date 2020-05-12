@@ -92,7 +92,10 @@ Também é possivel utilizar a construção :
     <link rel="stylesheet" type="text/css" href="css/style.css"> esse comando serve para linkar o arquivo css para a página web.
 
 ```
-    Dentro do arquivo style.css são editados os estilos como por exemplo a cor de fundo.
+    Dentro do arquivo style.css são editados os estilos como por exemplo a cor de fundo:
+    1. cores escritas pelo nome desde que mais simples
+    2. cores escritas no padrão rgb(123,140,210)
+    3. cores escritas em hexadecimal #D4FAD1
 ```
     body{ 
         background: red;
@@ -100,6 +103,8 @@ Também é possivel utilizar a construção :
     body {
         background: rgb(123,140,310);
     }
+    body {
+        background: #D4FAD1; 
+    }
  ```
  No site https://html-color-codes.info/Codigos-de-Cores-HTML/ é possível ver cores personalizadas e escolher a melhor cor para o site.
- 
