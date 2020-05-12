@@ -63,6 +63,23 @@ Dentro da tag nav na lista é possível usar hiperlinks para linkar a própria p
 </nav>
 
 Estrutura do hiperlink 
+
 <a href="local ou id">Nome do Hiper link</a> 
+<a href="mailto:enderecodoemail">endereco@email.com</a> Mostra o endereço do email e chama o programa de enviar email
+<a href="tel:34991179515">(34)99117-9515</a> chama o programa para efeturar ligação telefônica
+
+O hiperlink também pode ser usado em imagens da seguinte forma
+
+<a href="site onde se quer linkar"><img src="endereço da imagem" width="100px"></a> dessa forma ao clicar sobre a imagem o navegador irá abrir a página que estava linkada a imagem.
+
+Também é possivel utilizar a construção :
+<a href="endereço" target="_blank"><img src="endereço"></a> com o target="_blank" é possível abrir o link em outra página do navegador sem sair da página atual.
+
 
 <div> são divisões criadas na página html 
+
+
+# CSS3 ( Cascade Style Sheet )
+---
+### Folha de Estilo em Cascata
+ 
