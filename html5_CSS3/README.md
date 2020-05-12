@@ -100,4 +100,6 @@ Também é possivel utilizar a construção :
     body {
         background: rgb(123,140,310);
     }
+ ```
+ No site https://html-color-codes.info/Codigos-de-Cores-HTML/ é possível ver cores personalizadas e escolher a melhor cor para o site.
  
