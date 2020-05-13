@@ -11,3 +11,5 @@
    ---
         
 <h1> Curso de BootStrap <h1>
+
+    Aula será dada para fazer esse exemplo aqui https://getbootstrap.com/docs/4.5/examples/carousel/
