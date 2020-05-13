@@ -108,3 +108,17 @@ Também é possivel utilizar a construção :
     }
  ```
  No site https://html-color-codes.info/Codigos-de-Cores-HTML/ é possível ver cores personalizadas e escolher a melhor cor para o site.
+
+     class = "identifica_padrao" -> com esse comando é possível passar no css nao uma tag mas algo mais específico.
+     Para usar o tipo class devemos colocar:
+     
+         tag.identifica_padrao {
+             background: red;
+             font-size: 45px;
+             font-family: arial;
+         }
+    Onde tiver a marcação (class="identifica_padrao") essas alterações ocorrerão.
+    fonte: https://www.w3schools.com/cssref/sel_class.asp
+
+    
+

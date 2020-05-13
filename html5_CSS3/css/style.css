@@ -20,6 +20,24 @@ p {
     font-size: 18px;
 }
 
-img {
+.img_padrao {
     margin-bottom: 20px;
+    width: 300px;
+}
+
+i.serios {
+    color: red;
+    font-size: 30px;
+    background: blueviolet;
+}
+
+img.logo {
+    margin-bottom: 5px;
+    width: 50px;
+    margin-top: 5px;
+
+}
+
+footer {
+    margin-bottom: 30px;
 }
