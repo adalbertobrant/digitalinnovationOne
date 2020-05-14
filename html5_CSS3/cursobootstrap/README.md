@@ -16,4 +16,5 @@
     ---
     
    <p> Aula será dada para fazer esse exemplo aqui https://getbootstrap.com/docs/4.5/examples/carousel/</p>
+   <p> O Bootstrap é um conjunto de estilos para classes e componentes do css, que ajuda e agiliza a produção de contexto para a página web</p>
 
