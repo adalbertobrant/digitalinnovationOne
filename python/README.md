@@ -35,11 +35,11 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 <th>resto</th>
 </tr>
 <tr>
-<td style="text-align:center">+</td>
-<td style="text-align:center">-</td>
-<td style="text-align:center">*</td>
-<td style="text-align:center">**</td>
-<td style="text-align:center">/</td>
-<td style="text-align:center">%</td>
+<td>+</td>
+<td>-</td>
+<td>*</td>
+<td>**</td>
+<td>/</td>
+<td>%</td>
 </tr>
 </table>
