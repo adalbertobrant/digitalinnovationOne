@@ -27,7 +27,7 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 ### Operadores matemáticos em Python
 <table>
 <tr>
-<th><center>soma</center></th>
+<th>soma</th>
 <th>subtração</th>
 <th>multiplicação</th>
 <th>potenciação</th>
@@ -35,7 +35,7 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 <th>resto</th>
 </tr>
 <tr>
-<td>+</td>
+<td><center>+</center></td>
 <td>-</td>
 <td>*</td>
 <td>**</td>
