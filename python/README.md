@@ -18,3 +18,8 @@ x = [10,20,30,40,casa,{"chave":10}]
 Python é uma linguagem fracamente tipada, diferente da linguagem C.
 O Python é muito usado em ciência de dados, devido a sua sintaxe ser simples e direta.
 Para criar um arquivo Python, basta abrir um editor de texto e salvar com a seguinte extensão .py
+
+### IDE para o Python
+
+A IDE de escolha para programar projetos em Python pode ser o Pycharm, você consegue fazer download
+no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
