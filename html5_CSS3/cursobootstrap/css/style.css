@@ -9,6 +9,19 @@
 }
 
 .margem {
-    padding-top: 50px;
-
+   padding-top: 50px;
+    padding-bottom: 50px;
+}
+.par_ceiros {
+    background-color: #D8D8D8;
+}
+.servi_cos {
+    background-color: #D8D8D8;
+}
+.imagem {
+    padding-top:20px;
+}
+.bg-footer {
+    background-color: black;
+    color:white;
 }
