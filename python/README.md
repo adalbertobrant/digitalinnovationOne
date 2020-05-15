@@ -25,7 +25,7 @@ A IDE de escolha para programar projetos em Python pode ser o Pycharm, você con
 no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 
 ### Operadores matemáticos em Python
-<table style="text-align:center">
+<table >
 <tr>
 <th>soma</th>
 <th>subtração</th>
@@ -35,11 +35,11 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 <th>resto</th>
 </tr>
 <tr>
-<td>+</td>
-<td>-</td>
-<td>*</td>
-<td>**</td>
-<td>/</td>
-<td>%</td>
+<td style="text-align:center">+</td>
+<td style="text-align:center">-</td>
+<td style="text-align:center">*</td>
+<td style="text-align:center">**</td>
+<td style="text-align:center">/</td>
+<td style="text-align:center">%</td>
 </tr>
 </table>
