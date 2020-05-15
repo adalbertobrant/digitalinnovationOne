@@ -30,7 +30,16 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 <th>soma</th>
 <th>subtração</th>
 <th>multiplicação</th>
+<th>potenciação</th>
 <th>divisão</th>
 <th>resto</th>
+</tr>
+<tr>
+<td>+</td>
+<td>-</td>
+<td>*</td>
+<td>**</td>
+<td>/</td>
+<td>%</td>
 </tr>
 </table>
