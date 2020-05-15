@@ -23,3 +23,14 @@ Para criar um arquivo Python, basta abrir um editor de texto e salvar com a segu
 
 A IDE de escolha para programar projetos em Python pode ser o Pycharm, você consegue fazer download
 no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
+
+### Operadores matemáticos em Python
+<table>
+<tr>
+<th>soma</th>
+<th>subtração</th>
+<th>multiplicação</th>
+<th>divisão</th>
+<th>resto</th>
+</tr>
+</table>
