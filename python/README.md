@@ -4,3 +4,17 @@
        
 Entrar no site www.python.org e fazer a instalação.[Site do Python](https://www.python.org)
 
+
+
+### Commandos básicos do Python
+
+Abrir o terminal e digitar python, deve entrar no ambiente do python, para sair do ambiente digite
+
+-> exit()
+print () -> imprime na tela
+x = 10 -> guarda na variável x o valor de 10
+x = [10,20,30,40,casa,{"chave":10}]
+
+Python é uma linguagem fracamente tipada, diferente da linguagem C.
+O Python é muito usado em ciência de dados, devido a sua sintaxe ser simples e direta.
+Para criar um arquivo Python, basta abrir um editor de texto e salvar com a seguinte extensão .py
