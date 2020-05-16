@@ -46,10 +46,11 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 
 ### Operadores lógicos em Python
 #### Condicionais
-    if - 
-    else- 
-    elif- 
+    if - if(alguma_coisa):
+             print(alguma_coisa)
+    else-  else:
+                  print(outra_coisa)
+    elif-  elif(nem_alguna_coisa):
+                  print(nem_alguma_coisa)
 #### Lógicos
-    and- 
-    or-
-    not- 
+ 
