@@ -45,6 +45,7 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 </table>
 
 ### Operadores lógicos em Python
+
 #### Condicionais
     if - if(alguma_coisa):
              print(alguma_coisa)
@@ -52,5 +53,27 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
                   print(outra_coisa)
     elif-  elif(nem_alguna_coisa):
                   print(nem_alguma_coisa)
+Operadores condicionais sempre retornam verdadeirto (True) ou falso (False)
 #### Lógicos
- 
+ <table>
+ <tr>
+ <th>Operador</th>
+ <th>Descrição</th>
+ <th>Exemplo</th>
+ </tr>
+ <tr>
+ <td> and</th>
+ <td>compara dois valores e retorna verdadeiro se os dois valores forem verdadeiros</td>
+ <td> 10 <100 and 100 > 50</td>
+ </tr>
+ <tr>
+ <td>or</td>
+ <td>retorna verdadeiro se um dos operadores for verdadeiro</td>
+ <td>10<100 or  100< 10 </td>
+ </tr>
+ <tr>
+  <td></td>
+ <td></td>
+ <td></td>
+ </tr>
+ </table>
