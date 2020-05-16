@@ -72,8 +72,10 @@ Operadores condicionais sempre retornam verdadeirto (True) ou falso (False)
  <td>10<100 or  100< 10 </td>
  </tr>
  <tr>
-  <td></td>
- <td></td>
- <td></td>
+  <td>not</td>
+ <td>retorna o inverso se for verdadeiro retorna falso e vice versa </td>
+ <td>x = True 
+ not(x)
+ </td>
  </tr>
  </table>
