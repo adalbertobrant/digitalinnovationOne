@@ -43,3 +43,13 @@ no seguinte link. [Pycharm JetBrains](https://www.jetbrains.com/pycharm/)
 <td>%</td>
 </tr>
 </table>
+
+### Operadores lógicos em Python
+#### Condicionais
+    if - 
+    else- 
+    elif- 
+#### Lógicos
+    and- 
+    or-
+    not- 
