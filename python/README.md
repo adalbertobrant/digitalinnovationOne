@@ -74,8 +74,7 @@ Operadores condicionais sempre retornam verdadeirto (True) ou falso (False)
  <tr>
   <td>not</td>
  <td>retorna o inverso se for verdadeiro retorna falso e vice versa </td>
- <td>x = True 
- not(x)
+ <td>not(x = True )
  </td>
  </tr>
  </table>
